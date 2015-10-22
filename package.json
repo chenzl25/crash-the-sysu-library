@@ -1,0 +1,29 @@
+{
+  "name": "crash",
+  "version": "1.0.0",
+  "description": "node.js sysu library crash",
+  "main": "crash.js",
+  "dependencies": {
+    "sync-request": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenzl25/crash-the-sysu-library.git"
+  },
+  "keywords": [
+    "node.js",
+    "sysu",
+    "library",
+    "crash"
+  ],
+  "author": "Dylan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenzl25/crash-the-sysu-library/issues"
+  },
+  "homepage": "https://github.com/chenzl25/crash-the-sysu-library#readme"
+}
